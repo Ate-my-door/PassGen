@@ -1,0 +1,15 @@
+P A S S G E N
+=============
+
+Passgen is interactive easy to use text mode utility for generating passwords and any
+other character sequences in a wide range.
+
+It allows you:
+	- Set the number of generated passwords;
+	- Set the number of characters in the one password;
+	- Select the only characters you need;
+	- Optionally set the first character as a digit or a letter or a special character;
+	- Save the output data to a file or display it on the screen;
+	
+Passgen is free of any licensing, which means you can use it and its source code for any
+purpose, anywhere, anytime.
